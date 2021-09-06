@@ -61,7 +61,7 @@ class Game extends React.Component {
 
 // ========================================
 
-const domContainer = document.querySelector('#like_button_container');
-ReactDOM.render(e(Game /), domContainer);
+const domContainer = document.querySelector('#tic_container');
+ReactDOM.render(e(Game), domContainer);
 
 
