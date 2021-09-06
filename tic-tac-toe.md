@@ -1,3 +1,8 @@
+---
+title: Tic Tac Toe
+layout: template
+filename: tic-tac-toe.md
+--- 
 <html>
     <head>
     </head>
