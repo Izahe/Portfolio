@@ -4,8 +4,8 @@
     <body>
         <!-- Top -->
         <h1>Izahe' East's Portfolio</h1>
-        <p>A simple paragraph of text</p>
-        <p>Another paragraph of text</p>
+        <p>Hello there!</p>
+        <a href = "https://github.com/Izahe/Portfolio"> Link to repository </a>
         
         <!-- React -->
         <div id="like_button_container"></div>
