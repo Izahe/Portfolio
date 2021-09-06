@@ -1,7 +1,7 @@
 ---
 title: Tic Tac Toe
 layout: template
-filename: tic-tac-toe.md
+filename: tic-tac-toe
 --- 
 <html>
     <head>
