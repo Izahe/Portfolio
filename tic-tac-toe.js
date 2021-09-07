@@ -57,7 +57,9 @@ class Game extends React.Component {
 
 // ========================================
 
-const domContainer = document.querySelector('#tic_container');
-ReactDOM.render(<Game />, domContainer);
+ReactDOM.render(
+  <Game />,
+  document.getElementById('root')
+);
 
 
