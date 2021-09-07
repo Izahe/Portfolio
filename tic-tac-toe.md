@@ -2,7 +2,6 @@
     <head>
     </head>
     <body>
-      <h1> Tic Tac  </h1>
       <!-- React -->
       <div id="tic_container"></div>
       <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
