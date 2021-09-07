@@ -1,7 +1,3 @@
-'use strict';
-
-const e = React.createElement;
-
 class Square extends React.Component {
   render() {
     return (
@@ -62,6 +58,6 @@ class Game extends React.Component {
 // ========================================
 
 const domContainer = document.querySelector('#tic_container');
-ReactDOM.render(e(Game /), domContainer);
+ReactDOM.render(Game /, domContainer);
 
 
