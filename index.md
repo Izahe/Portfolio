@@ -7,7 +7,6 @@
         <p>Hello there!</p>
         <p>Email: izahe@udel.edu</p>
         <a href = "https://github.com/Izahe/Portfolio"> Link to repository </a>
-        <br></br>
         <h2> Technologies to Master </h2>
         <table>
             <tr>
