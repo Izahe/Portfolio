@@ -64,13 +64,13 @@
                 <td> Deploying with GitHub Pages </td>
                 <td></td>
                 <td></td>
-            <tr>
             </tr>
             <tr>
                 <td> Testing </td>
                 <td></td>
                 <td></td>
             </tr>
+    </table>
         <h2> TODO: </h2>
             <p> TBD </p>
         <h2> Changelog </h2>
