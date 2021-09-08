@@ -18,7 +18,7 @@
             <tr>
                 <td> HTML </td>
                 <td><a href = "https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html">Runestone Academy: Web Fundamentals</a></td>
-                <td> This very page! Added lists, tables, links and several different headers to show profiency in HTML. The html can be viewed on index.md in my repository</td>
+                <td> This very page! Added lists, tables, links and several different headers to show profiency in HTML. The HTML can be viewed on index.md in my repository</td>
             </tr>
             <tr>
                 <td> CSS </td>
