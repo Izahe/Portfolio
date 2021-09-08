@@ -17,37 +17,59 @@
             </tr>
             <tr>
                 <td> HTML </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> CSS </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> JavaScript </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> TypeScript </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> React </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> GitHub </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> Bootstrap </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> Requirements Gathering </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> User Interface Design </td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td> Deploying with GitHub Pages </td>
+                <td></td>
+                <td></td>
             <tr>
             </tr>
             <tr>
                 <td> Testing </td>
+                <td></td>
+                <td></td>
             </tr>
         <h2> TODO: </h2>
             <p> TBD </p>
