@@ -12,13 +12,13 @@
         <table>
             <tr>
                 <th> Technology </th>
-                <th> Resource(s) used </th>
+                <th> Resource(s) Used </th>
                 <th> Proof of Mastery </th>
             </tr>
             <tr>
                 <td> HTML </td>
-                <td></td>
-                <td></td>
+                <td><a href = "https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html"></a></td>
+                <td> This very page! Added lists, tables, links and several different headers to show profiency in HTML. The html can be viewed on index.md in my repository</td>
             </tr>
             <tr>
                 <td> CSS </td>
@@ -73,9 +73,9 @@
     </table>
         <h2> TODO: </h2>
             <p> TBD </p>
-        <h2> Changelog </h2>
+        <h3> Changelog </h3>
             <ul>
-                <li> 9/7: Added email, changelog, and HTML description </li>
+                <li> 9/8: Added email, changelog, and completed HTML in the technologies to master section  </li>
             </ul>
     </body>
 </html>
