@@ -13,7 +13,7 @@
             <tr>
                 <th> Technology </th>
                 <th> Resource(s) used </th>
-                <th> Proof of Mastery <th>
+                <th> Proof of Mastery </th>
             </tr>
             <tr>
                 <td> HTML </td>
