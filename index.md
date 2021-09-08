@@ -17,16 +17,38 @@
             </tr>
             <tr>
                 <td> HTML </td>
+            </tr>
+            <tr>
                 <td> CSS </td>
+            </tr>
+            <tr>
                 <td> JavaScript </td>
+            </tr>
+            <tr>
                 <td> TypeScript </td>
+            </tr>
+            <tr>
                 <td> React </td>
+            </tr>
+            <tr>
                 <td> GitHub </td>
+            </tr>
+            <tr>
                 <td> Bootstrap </td>
+            </tr>
+            <tr>
                 <td> Requirements Gathering </td>
+            </tr>
+            <tr>
                 <td> User Interface Design </td>
+            </tr>
+            <tr>
                 <td> Deploying with GitHub Pages </td>
+            <tr>
+            </tr>
+            <tr>
                 <td> Testing </td>
+            </tr>
         <h2> TODO: </h2>
             <p> TBD </p>
         <h2> Changelog </h2>
