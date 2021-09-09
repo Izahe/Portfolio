@@ -1,6 +1,8 @@
 header{
   position: fixed;
-  background-color; #bbbbbb;
+  color: blue;
+  background-color: black;
+  margin: auto;
   top: 0px;
   left: 0px;
   width: 100%;
