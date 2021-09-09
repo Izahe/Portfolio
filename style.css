@@ -12,26 +12,27 @@ a{
   color: #66fcf1;
 }
 h2{
-  color: #c5c6C7;
+  color: white;
 }
 h3{
-  color: #c5c6C7;
+  color: white;
 }
 p{
-  color: #c5c6C7;
+  color:  white;
 }
 body{
   background-color: black;
 }
-#master_table{
-  
+#master_table tr{
+  color: white;
 }
 #master_table th{
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
   background-color: #66fcf1;
-  color: #c5c6C7;
+  color:  white;
 }
-#master_table tr:nth-child(even){background-color: #1f2833;}
+#master_table tr:nth-child(even){background-color: #1d2230;}
+#master_table tr:nth-child(odd){background-color: #293247;}
 #master_table tr:hover {background-color: #ddd;}
