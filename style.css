@@ -11,6 +11,9 @@ h1{
 a{
   color: #66fcf1;
 }
+li{
+ color: white; 
+}
 h2{
   color: white;
 }
@@ -35,4 +38,4 @@ body{
 }
 #master_table tr:nth-child(even){background-color: #1d2230;}
 #master_table tr:nth-child(odd){background-color: #293247;}
-#master_table tr:hover {background-color: #ddd;}
+#master_table tr:hover {background-color: #14161f;}
