@@ -70,8 +70,8 @@
             </tr>
     </table>
         <h2> TODO: </h2>
-            <p> Next week I'm planning to do JavaScript and TypeScript (not sure on which tutorials though), and then React if I'm doing well on time. For my Java/TypeScript artifact, I'll use Visual Studio code and Git to push the site onto Github. This should give me a bit more comfort with VS/Github, and I also never want to make a website through the edit button on github again.   </p>
-        <h3> Changelog </h3>
+            <p> Next week I'm planning to do JavaScript and TypeScript (thinking of reading a tutorial then doing something from <a href = "https://www.youtube.com/watch?v=3PHXvlpOkf4">this</a>), and then React if I'm doing well on time. For my Java/TypeScript artifact, I'll use Visual Studio code and Git to push the site onto Github. This should give me a bit more comfort with VS/Github, and I also never want to make a website through the edit button on github again.   </p>
+        <h2> Changelog </h2>
             <ul>
                 <li> Week of 9/6: Added email, changelog, todo and completed the HTML and CSS sections   </li>
             </ul>
