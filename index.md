@@ -7,7 +7,7 @@
         <p>Email: izahe@udel.edu</p>
         <a href = "https://github.com/Izahe/Portfolio"> Link to repository </a>
         <h2> Technologies to Master </h2>
-        <table>
+        <table id = "master_table">
             <tr>
                 <th> Technology </th>
                 <th> Resource(s) Used </th>
