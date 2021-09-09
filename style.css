@@ -21,5 +21,17 @@ p{
   color: #c5c6C7;
 }
 body{
-  background-color: #1f2833;
+  background-color: black;
 }
+#master_table{
+  
+}
+#master_table th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #66fcf1;
+  color: #c5c6C7;
+}
+#master_table tr:nth-child(even){background-color: #1f2833;}
+#master_table tr:hover {background-color: #ddd;}
