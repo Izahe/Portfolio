@@ -3,9 +3,6 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <header>
-            <h1>Izahe' East's Portfolio</h1>
-        </header>
         <p>Hello there!</p>
         <p>Email: izahe@udel.edu</p>
         <a href = "https://github.com/Izahe/Portfolio"> Link to repository </a>
