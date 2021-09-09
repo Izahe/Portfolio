@@ -3,7 +3,7 @@
     </head>
     <body>
         <header>
-            <h1>Izahe' East's Portfolio</h1>
+            <h1>Izahe' East's Portfoli</h1>
         </header>
         <p>Hello there!</p>
         <p>Email: izahe@udel.edu</p>
