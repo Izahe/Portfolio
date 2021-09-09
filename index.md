@@ -1,5 +1,6 @@
 <html>
     <head>
+        <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
         <h1>Izahe' East's Portfolio</h1>
