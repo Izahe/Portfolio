@@ -1,9 +1,10 @@
 <html>
     <head>
-        <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
-        <h1>Izahe' East's Portfolio</h1>
+        <header>
+            <h1>Izahe' East's Portfolio</h1>
+        </header>
         <p>Hello there!</p>
         <p>Email: izahe@udel.edu</p>
         <a href = "https://github.com/Izahe/Portfolio"> Link to repository </a>
