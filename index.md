@@ -70,7 +70,12 @@
             </tr>
     </table>
         <h2> TODO: </h2>
-            <p> Next week I'm planning to do JavaScript and TypeScript (thinking of reading a tutorial then doing something from <a href = "https://www.youtube.com/watch?v=3PHXvlpOkf4">this</a>), and then React if I'm doing well on time. For my Java/TypeScript artifact, I'll use Visual Studio code and Git to push the site onto Github. This should give me a bit more comfort with VS/Github, and I also never want to make a website through the edit button on github again.   </p>
+        <ul>
+            <li> JavaScript Tutorial (not sure on which one I want to do, will probably be one from the portfolio description) </li>
+            <li> Probably one of <a href = "https://www.youtube.com/watch?v=3PHXvlpOkf4">these</a> as my artifact. I'm also planning to use VSCode and Github to push this project to the repo. </li>
+            <li> TypeScript Tutorial (probably <a href = "https://www.codecademy.com/courses/learn-typescript/lessons/introduction-to-typescript/exercises/from-javascript-to-typescript">this one</a></li>
+            <li> React if I'm doing well on time </li>
+        </ul>
         <h2> Changelog </h2>
             <ul>
                 <li> Week of 9/6: Added email, changelog, todo and completed the HTML and CSS sections   </li>
