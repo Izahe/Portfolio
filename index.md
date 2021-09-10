@@ -73,7 +73,7 @@
         <ul>
             <li> JavaScript Tutorial (not sure on which one I want to do, will probably be one from the portfolio description) </li>
             <li> Probably one of <a href = "https://www.youtube.com/watch?v=3PHXvlpOkf4">these</a> as my artifact. I'm also planning to use VSCode and Github to push this project to the repo. </li>
-            <li> TypeScript Tutorial (probably <a href = "https://www.codecademy.com/courses/learn-typescript/lessons/introduction-to-typescript/exercises/from-javascript-to-typescript">this one</a></li>
+            <li> TypeScript Tutorial (probably <a href = "https://www.codecademy.com/courses/learn-typescript/lessons/introduction-to-typescript/exercises/from-javascript-to-typescript">this one</a>)</li>
             <li> React if I'm doing well on time </li>
         </ul>
         <h2> Changelog </h2>
