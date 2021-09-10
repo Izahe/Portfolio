@@ -19,7 +19,7 @@
                 <td> This very page! (and probably every other page I make from here on out) Added lists, tables, links and several different headers to show profiency in HTML. The HTML can be viewed on index.md in my repository</td>
             </tr>
             <tr>
-                <td> CSS </td>
+                <td> <strong> CSS </strong></td>
                 <td><a href = "https://runestone.academy/runestone/books/published/webfundamentals/CSS/toctree.html">Runestone Academy: Web Fundamentals</a></td>
                 <td>Also this page! Tried to show off a few different tricks, but I didn't want to make it too crazy as it's still the main website. You can find the CSS file under style.css in my repo. Might come back to make it look nicer later in the course. </td>
             </tr>
