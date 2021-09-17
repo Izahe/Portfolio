@@ -31,7 +31,7 @@
             <tr>
                 <td> TypeScript </td>
                 <td><a href = "https://www.codecademy.com/learn/learn-typescript"> Codecademy</td>
-                <td>Pokedex Website</td>
+                <td><a href = "typescript.png">Completed a TypeScript Tutorial</a>, Pokedex Website</td>
             </tr>
             <tr>
                 <td> React </td>
