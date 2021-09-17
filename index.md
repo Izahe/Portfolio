@@ -45,7 +45,7 @@
             </tr>
             <tr>
                 <td> Bootstrap </td>
-                <td><a href = "https://getbootstrap.com/docs/5.1/getting-started/introduction/"> BootStrap Documentation</td>
+                <td><a href = "https://getbootstrap.com/docs/5.1/getting-started/introduction/"> BootStrap Documentation</a></td>
                 <td>I have started implementing Bootstrap to my Pokemon Website</td>
             </tr>
             <tr>
@@ -60,7 +60,7 @@
             </tr>
             <tr>
                 <td> Deploying with GitHub Pages </td>
-                <td><a href = "https://dev.to/michaelcurrin/intro-tutorial-to-ci-cd-with-github-actions-2ba8">CI/CD tutorial using GitHub Actions</td>
+                <td><a href = "https://dev.to/michaelcurrin/intro-tutorial-to-ci-cd-with-github-actions-2ba8">CI/CD tutorial using GitHub Actions</a></td>
                 <td>Deployed Pokemon website with Github Pages</td>
             </tr>
             <tr>
