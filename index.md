@@ -30,12 +30,12 @@
             </tr>
             <tr>
                 <td> TypeScript </td>
-                <td><a href = "https://www.codecademy.com/learn/learn-typescript"> Codecademy</td>
+                <td><a href = "https://www.codecademy.com/learn/learn-typescript"> Codecademy</a></td>
                 <td><a href = "typescript.png">Completed a TypeScript Tutorial</a>, Pokedex Website</td>
             </tr>
             <tr>
                 <td> React </td>
-                <td></td>
+                <td><a href = "https://www.youtube.com/watch?v=XehSJF85F38"> Guide 1 </a> </td>
                 <td>Pokedex Website</td>
             </tr>
             <tr>
